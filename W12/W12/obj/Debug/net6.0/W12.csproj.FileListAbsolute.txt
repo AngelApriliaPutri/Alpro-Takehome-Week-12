@@ -1,0 +1,30 @@
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\bin\Debug\net6.0\W12.exe
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\bin\Debug\net6.0\W12.deps.json
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\bin\Debug\net6.0\W12.runtimeconfig.json
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\bin\Debug\net6.0\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\bin\Debug\net6.0\W12.pdb
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.csproj.AssemblyReference.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.AssemblyInfoInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.AssemblyInfo.cs
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.csproj.CoreCompileInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\refint\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.pdb
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\W12.genruntimeconfig.cache
+C:\Users\Angel Aprilia\OneDrive\Documents\ALPRO\W12\W12\obj\Debug\net6.0\ref\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\bin\Debug\net6.0\W12.exe
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\bin\Debug\net6.0\W12.deps.json
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\bin\Debug\net6.0\W12.runtimeconfig.json
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\bin\Debug\net6.0\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\bin\Debug\net6.0\W12.pdb
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.csproj.AssemblyReference.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.AssemblyInfoInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.AssemblyInfo.cs
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.csproj.CoreCompileInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\refint\W12.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.pdb
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\W12.genruntimeconfig.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 1\ALPRO\W12\W12\obj\Debug\net6.0\ref\W12.dll
